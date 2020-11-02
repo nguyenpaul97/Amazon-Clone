@@ -11,6 +11,11 @@
   background-color: white;
   z-index: 1;
 }
+.product:hover {
+  background-color: lightgray;
+  transition: 1s;
+  cursor: pointer;
+}
 
 .product__info {
   height: 100px;
